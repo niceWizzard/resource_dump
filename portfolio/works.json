@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Wordlery",
+        "description": "A wordle clone made using Angular framework.",
+        "date" : "",
+        "url": "https://wordlery.netlify.app/",
+        "imageUrl": "https://raw.githubusercontent.com/niceWizzard/profile_projects_list/main/wordlery.png"
+    },
+    {
+        "name": "Zombrawl",
+        "description": "A fun topdown shooter where you shoot zombies and other 'players'. Survive the longest!",
+        "date" : "",
+        "url": "https://coderrm23.itch.io/zombrawlio",
+        "imageUrl": "https://raw.githubusercontent.com/niceWizzard/profile_projects_list/main/zombrawl_pic.png"
+    }
+]
